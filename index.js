@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["discord.gg/hiraishi"];
+const statusMessages = [".gg/hiraishi"];
 
 
 let currentIndex = 0;
